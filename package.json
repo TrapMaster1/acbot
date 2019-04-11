@@ -1,0 +1,23 @@
+{
+  "name": "animalcbot",
+  "version": "1.0.0",
+  "description": "Bot for Twitter and birthdays of my friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrapMaster1/acbot.git"
+  },
+  "author": "Patrick Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrapMaster1/acbot/issues"
+  },
+  "homepage": "https://github.com/TrapMaster1/acbot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "twit": "^2.2.11"
+  }
+}
