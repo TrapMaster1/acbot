@@ -18,6 +18,10 @@
   "homepage": "https://github.com/TrapMaster1/acbot#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-html-parser": "^1.1.15",
+    "request-promise": "^4.2.4",
+    "split-string": "^6.1.0",
     "twit": "^2.2.11"
   }
 }
